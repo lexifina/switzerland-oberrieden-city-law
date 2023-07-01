@@ -1,2 +1,2 @@
 # Gebührentarif
-Vom 21.12.2021
+Vom 03.10.2023
