@@ -8,4 +8,5 @@
 ### 3.1 Arealüberbauungen
 ### 3.2 Abgestufte Bauten
 ## 4 Weitere Bauvorschriften
-## 5 Schlussbestimmung
+## 5 Kommunaler Mehrwertausgleich
+## 6 Schlussbestimmungen
