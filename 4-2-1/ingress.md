@@ -1,2 +1,2 @@
 # Geschäftsordnung Schule
-Vom 28.11.2022
+Vom 05.03.2024
