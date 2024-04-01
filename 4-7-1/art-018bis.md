@@ -1,0 +1,2 @@
+# Art. 18bis Verstoss gegen die Nutzungsrichtlinien der Bibliothekscomputer
+1 Bei einem Verstoss gegen die Nutzungsrichtlinien der Bibliothekscomputer, einschliesslich dem Herunterladen oder Ansehen von pornografischem Material, werden sofortige Massnahmen ergriffen. Diese können die Sperrung des Bibliothekscomputers, den Verlust der Bibliotheksnutzungsprivilegien und gegebenenfalls rechtliche Konsequenzen nach sich ziehen.
