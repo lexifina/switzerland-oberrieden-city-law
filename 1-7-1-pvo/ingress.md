@@ -1,3 +1,5 @@
-# Besoldungsverordnung
-(BVO)
-Vom 29.06.2000
+# Personalverordnung
+(PVO)
+Vom 05.06.2025
+Die Gemeindeversammlung,
+beschliesst:
