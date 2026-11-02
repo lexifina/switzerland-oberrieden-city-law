@@ -1,0 +1,11 @@
+{
+  "path": "ch-zh-oberrieden",
+  "code": "CH-ZH-OBERRIEDEN",
+  "name": "Oberrieden (city)",
+  "level": "municipality",
+  "parent": "ch-zh",
+  "repo": "https://github.com/lexifina/switzerland-oberrieden-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (49 acts, 66 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

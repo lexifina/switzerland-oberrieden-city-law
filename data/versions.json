@@ -1,0 +1,793 @@
+{
+ "country": "CH-ZH-OBERRIEDEN",
+ "acts": [
+  {
+   "slug": "1-1-1-go",
+   "short": "GO",
+   "title": "Gemeindeordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 64,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "29a2542f863cd2494cef1988239e56aa3aba91c780b30c26d6937e0f679c58e3"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1-ivar",
+   "short": "IVAR",
+   "title": "Reglement Informationsverwaltung und Archivierung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "95933988cb6e16c3f11b86d15ccdbf0688023bcf01f4655b5ccf87dbcda1de58"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-entschadigungsverordnung-evo",
+   "short": "Entschädigungsverordnung, EVO",
+   "title": "Verordnung über die Entschädigung von Behördenmitgliedern und weiteren Funktionären",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 25,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "8398e9a80ec8c9310c2919442c79ea55fb7d69457336e992070b6b00dacd79a9"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Verwaltungsreglement",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 59,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.6-2/versions/65",
+     "sha256": "ad9b34e792aa1e7bcd549970c72bb2bce8b68ab0180a6a079f75e8e2442ec5dd"
+    },
+    {
+     "from": "2026-08-18",
+     "units": 58,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "48cb8531842000a466c035cadb01f90137da0f404f22ef3c3ec615c40a5ed73a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Spesenreglement für Behörden und Kommissionen",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "a2779c1c304d10f304cc3e22e5c355c323172c5df2f9f6aa760a78a255d5a171"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Geschäftsordnung Werkkommission",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 8,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "10ec3e801d7e02bfa145d4701474a53efbc9d8d17d8a939164efd2df47a18e38"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-5",
+   "short": "SRS 1.6-5",
+   "title": "Geschäftsordnung der Liegenschaftskommission",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.6-5",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 13,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.6-5",
+     "sha256": "8cfdb69ed2419b655dbd8b8c5257f406a7080842ccab1040099f240d8f33e714"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-pvo",
+   "short": "PVO",
+   "title": "Personalverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 81,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.7-1/versions/67",
+     "sha256": "3a6daeb5ae207c0a20246055bf799d9968a0ea8d796bb107cfcb90d535aef1e2"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 44,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "5ed25cd1e6572ff96aec490eebf950091dc88407531fa2839a2d5fe669de6b3e"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-pr",
+   "short": "PR",
+   "title": "Personalreglement",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 97,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "3b6d25e032d186376c91c08888eb93b114cf40300acff7341c5635ceaa4e82ca"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-3-spesenreglement",
+   "short": "Spesenreglement",
+   "title": "Spesenreglement",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/1.7-3",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 18,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/1.7-3",
+     "sha256": "d9b1686584ee9fd61f7db21f9a6a66f692697eca0a0a14d0d1558c9f7630fe75"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Betriebsreglement Kita Freihofstrasse",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 37,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.1-1/versions/69",
+     "sha256": "5861fe001e4a28199f92ff77afb814c7531509f4f9f52255423efdb367c6f7ca"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 28,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.1-1/versions/199",
+     "sha256": "eb77dde132dbf562f6584dee966a50146c82f17a19983aabdf9886da163917bd"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 29,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "2efaa23637abb887785063b0694d375d9a30d51c4f203af6ffb0867a8994bc60"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2",
+   "short": "SRS 4.1-2",
+   "title": "Betriebsreglement inkl. Tarifordnung Schulergänzende Betreuung Oberrieden, Hort Momina",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 33,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "33d8a803db16c21a3ad2d4e52bcd5fea183e231ad5fd981aedb7088d0064ca7b"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3",
+   "short": "SRS 4.1-3",
+   "title": "Tarifordnung Kita Freihofstrasse",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.1-3",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 10,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.1-3/versions/201",
+     "sha256": "e96a1433d37a3a748449f08dcb111115a61a4157243ee5e5a4b9fcf86b95afb2"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.1-3",
+     "sha256": "313dcc7d288364d060c0701f232ee735230461980f7db78832af8ce2216122f9"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Geschäftsordnung Schule",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 74,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-1/versions/73",
+     "sha256": "2d6930bfebff82de1291626ae756833aac4d4c818f09ba6492db0b735d7b6514"
+    },
+    {
+     "from": "2024-03-05",
+     "units": 140,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "c21e6b08199590c115dc52c9652709c584c5ec11277379f33254ec9678148f16"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement über den Elternrat der Schule Oberrieden",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 12,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "d72b9317de2b947f339aaff11c0718368406cbdce2eb0401fefd68ebb15a5f09"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Gebührentarif der Schule Oberrieden",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 8,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-3/versions/77",
+     "sha256": "873b389368c497abfbef72cf32a175164affe0c2c54777f79fdcc7fee72a91e4"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 8,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "2eb075f8f872272a075f388a48d1d5c8c95b6bb88b4adb92bdc7a64c01293487"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-4",
+   "short": "SRS 4.2-4",
+   "title": "Reglement Schulzahnpflege",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.2-4",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 9,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-4/versions/152",
+     "sha256": "0a1995ad11467e9b2b309c461e3b50702f3cb4ad71ebc25c1fa9cf33b62b865d"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 9,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-4",
+     "sha256": "c916bd68de3a31cc7dcd7ed965dfe5b15d0c10d66b88e7e74745319074d82fb3"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-5",
+   "short": "SRS 4.2-5",
+   "title": "Besoldungsreglement",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.2-5",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 14,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.2-5",
+     "sha256": "b6d8b1832aa5145205b38c9a3c9204d43c0dbf415de3857860f86843baedc253"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-1",
+   "short": "SRS 4.5-1",
+   "title": "Benützungsreglement Strandbad",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.5-1",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.5-1",
+     "sha256": "fcea6ad77a155261d2a5d09c1413998428a9187e348e9cc4e68e3faafcb13d4a"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Benutzungsordnung der Bibliothek Oberrieden",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 21,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.7-1/versions/85",
+     "sha256": "5477952518c8c63bd1f7e445b74d7abc41564ac96dcfd811f1b7329d8186f234"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 24,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "4aa422f5f52e583c1048440ef8affb24c00fda0b5d9187d23f7ff90fa8a672ae"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeiverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 34,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "265df38eaec7fcb4165866dd6138d202ebd8499b7607775cbda27e331c46b48a"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Verordnung über das gemeinderechtliche Ordnungsbussenverfahren (OBV) mit zugehöriger Bussenliste",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "74a147b3bb4ca2e9f6d7ef32c8fa56bafbf3d1521c883dd55ddeb78ba4d4e724"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-3-rvog",
+   "short": "RVöG",
+   "title": "Reglement über die Videoüberwachung auf öffentlichem Grund",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/5.1-3",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 17,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/5.1-3",
+     "sha256": "b7f8ec8fe0ee2c6043b49f2f2d4eb5be4ca0f7f39d0ba894f3c50652533d33e9"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebührenverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 55,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "03cd722e94bf21d9ce2ec3f3f871ac067720c7683d6ca4ee7c32e032d064d63f"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-1",
+   "short": "SRS 6.4-1.1",
+   "title": "Gebührentarif",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/6.4-1.1",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 78,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.4-1.1/versions/93",
+     "sha256": "7b5b9e2b47ab814c06c62ce2d154abd3bce60c3dd7c659e7bb3c88b11f276390"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 78,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.4-1.1",
+     "sha256": "abb61083478867b0bfc57e0b5df790cddf2a06b3f93340a2d4f7bdf4d0e5f8c9"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Gebührenreglement Gemeindeliegenschaften",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "e5f56c006bd2f569935b55c9af65e53d50b223f53870c7f52cfca7a232f1097b"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Benützungsreglement für die Schützenstube",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "1991-01-22",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "99d0e82d11a5511817545d272e6a7f022fe1051a4202f977096443415fc3fc6c"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Benützungsreglement für die Räumlichkeiten des GAWO-Zentrums in der Liegenschaft Spielhofweg 12, 8942 Oberrieden",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "f620d7a086be46497639bbc9b7bd3cb12ec0ab76fe9fd2f1a6014be777bb7c0e"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Benützungsreglement Villa Schönfels",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 7,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "3942dbb8b31d37ebcbf7822a30c6b26ba16979c016029328486116867f397c8d"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bau- und Zonenordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2014-04-26",
+     "units": 46,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.1-1/versions/102",
+     "sha256": "94fa157a016fb6c7917426a5466043588ae6948e6636a97f88e95a1a726d0861"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 47,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.1-1/versions/162",
+     "sha256": "45923eb894528c3613d4487597ab4b696814d28e9671731cf4f768d2801bc6ba"
+    },
+    {
+     "from": "2026-01-26",
+     "units": 52,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "ab82687296397505367c10afb0657c9f178116ec6cf6da4dc2750ed87b35d267"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-wavo",
+   "short": "WaVO",
+   "title": "Wasserverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 50,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "a6ac8787d877e4172dcd4361419e383565a456eb8a9be7bbbb6eebc6d1b01f8b"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-1",
+   "short": "SRS 7.4.3-1.1",
+   "title": "Ausführungsbestimmungen zur Wasserverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.3-1.1",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 29,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.3-1.1",
+     "sha256": "518ccc9a02141d13d2271da6207ddf776b8a7facd3de1ca155a95f230ab9543d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-2",
+   "short": "SRS 7.4.3-1.2",
+   "title": "Wasser- und Abwassergebühren",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.3-1.2",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.3-1.2",
+     "sha256": "39c8155c7137b18c45a05e47ad9ae2d26499c066cc5a9ba1f9c7e93e5b0bb372"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-sevo",
+   "short": "SEVO",
+   "title": "Siedlungsentwässerungsverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 29,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "3cb2ea888f072eedc770b5ad86c085167c1f47709fad1ed928e2aa6e7d5210dc"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-1",
+   "short": "SRS 7.4.3-2.1",
+   "title": "Ausführungsbestimmungen zur Siedlungsentwässerungsverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.3-2.1",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 26,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.3-2.1",
+     "sha256": "cde1763db404909ec355065a0f516efbb3f03f62659fe0288073810c7d7026c5"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-2-gebv-sevo",
+   "short": "GebV SEVO",
+   "title": "Verordnung über die Gebühren für Siedlungsentwässerungsanlagen",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.3-2.2",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 18,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.3-2.2",
+     "sha256": "ddc1a93849ab230b647534b3b0dffb7b5efac28d69dbd17d9564ac7d431a7097"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-abfvo",
+   "short": "AbfVO",
+   "title": "Abfallverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 15,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "ad980f710f8fedf1b190dd1b68b4c33d2af9b1621dc0f63864dc91fba4ed7bce"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Ausführungsbestimmungen zur Abfallverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 11,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "f1c12f892815dcaf7fe1b8d2df6a99fcc9f287251dee24c807c48367a1a5a036"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-vpog",
+   "short": "VPöG",
+   "title": "Verordnung über das Parkieren auf öffentlichem Grund",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 30,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "48004383825752140487c8d6cd96ba69f7845f1e5d6ee78147b76fd22a03edad"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1-avpog",
+   "short": "AVPöG",
+   "title": "Ausführungsbestimmungen zur Verordnung über das Parkieren auf öffentlichem Grund",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/7.7-1.1",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 16,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/7.7-1.1",
+     "sha256": "0f4f974d2e96de67a67fd09b941a1b96bb0613b36305f74bc290b91c0585a77e"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Friedhof- und Bestattungsverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 41,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "984d5f019fed0c62e80a4ba90e2214904ab678febf9c8f3a04c43250c35af425"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Geschäftsreglement der Sozialbehörde",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 27,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "be92f61bc7c931ba19efc58b63b2bd88f3a0a14328283d5c01a9f5863c54d6c8"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2-ko-sobe",
+   "short": "KO SoBe",
+   "title": "Kompetenzordnung Sozialbehörde",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 13,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-2/versions/178",
+     "sha256": "bf7fe0572d4f242d1e813f88031c6c08ca41458e80c0bacd3ab6ffa883794c77"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 12,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "73b8f3493f380da547ad34875e25a75cb5adb16b6478d94034035715e429108e"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3-rl-mietzins-wsh",
+   "short": "RL Mietzins WSH",
+   "title": "Mietzinsrichtlinie Wirtschaftliche Sozialhilfe",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 11,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "eb6a7ecbdc90ffc5a168a3d06664a21f44a54e547a8ecd65d0190ba3803ef306"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-4-rl-mietzins-status-n",
+   "short": "RL Mietzins Status N",
+   "title": "Mietzinsrichtlinien Status N",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-4",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 10,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-4",
+     "sha256": "edd3788f6e6a650e95bdc37b81dee63e0aeec095b148238a829e9059bd96dd26"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-5-rl-asylsozialhilfe-nach-afv",
+   "short": "RL Asylsozialhilfe nach AfV",
+   "title": "Richtlinie Asylsozialhilfe nach Asylfürsorgeverordnung (AfV)",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-5",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 26,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-5/versions/161",
+     "sha256": "743677684da6a6fd3e1102d96e150be014abf986c13b7e8b4d55255576eb05ad"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 26,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-5/versions/164",
+     "sha256": "cb9d4947eeef905c0c6ede05027bdf6163ec659a83a7077984c8fd7a07f49012"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 26,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-5",
+     "sha256": "bef185c6c78723cbd427ebf1a161d69b4ca33e8b5d7831308a96714a3a3e63b7"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 26,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-5/versions/211",
+     "sha256": "3dbca5ebfa5f640048edb786293ac4f2508a0e224b840611507be7157e82f921"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-6-vo-feb",
+   "short": "VO FEB",
+   "title": "Verordnung über die Betreuungszuschüsse für die familienergänzende Kinderbetreuung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-6",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 16,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-6",
+     "sha256": "5ea6cfc16644c23a6e7b9533e6e0928bf758d6cdb42ae074e751e29c3d349a19"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-7-reglement-zur-vo-feb",
+   "short": "Reglement zur VO FEB",
+   "title": "Reglement zur Verordnung über die Betreuungszuschüsse für die familienergänzende Betreuung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/8.7-7",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 45,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-7/versions/144",
+     "sha256": "32b3fa8a224ff119748a4f895575569430585fc0da17eace48e908e157caad42"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 16,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/8.7-7",
+     "sha256": "ec8bb0b8b2d2f502f8ef611b600b4f4d0e44ac879c693e2bf3f65f46a74d475c"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Ladenschlussverordnung",
+   "url": "https://oberrieden.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "1995-08-01",
+     "units": 12,
+     "source_url": "https://oberrieden.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "650133358d4b137cf9f6c83f93fa5f0504b0240898e748e374e7d181152c38b2"
+    }
+   ]
+  }
+ ]
+}
