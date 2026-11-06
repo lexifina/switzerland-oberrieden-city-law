@@ -1,5 +1,7 @@
 # Oberrieden (city): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Oberrieden, Zurich, Switzerland, which global-law reads at `switzerland/zurich/oberrieden/acts/`.
+
 The municipal law of the municipality of Oberrieden (Gemeinde Oberrieden, canton of Zurich, Switzerland) as a git history: one file per article, one commit per amending act on the day it took effect, and the amending act as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law). The law of the canton of Zurich is in [lexifina/switzerland-zurich-law](https://github.com/lexifina/switzerland-zurich-law); federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
