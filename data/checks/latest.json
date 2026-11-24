@@ -1,0 +1,77 @@
+{
+ "generated": "2026-11-24T12:48:36Z",
+ "latest": {
+  "lexwork-oberrieden-city|switzerland/zurich/oberrieden/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
+   "census": {
+    "checked": 7,
+    "current": 49,
+    "gone": 0,
+    "held": 49,
+    "not_at_source": 0,
+    "out_of_scope": 1,
+    "pending": 0,
+    "repo": 49,
+    "source_in_scope": 49
+   },
+   "check_id": "ch-lexwork-oberrieden-city-20261124T124759Z",
+   "commits": null,
+   "corpus": "switzerland/zurich/oberrieden/acts",
+   "error": null,
+   "finished": "2026-11-24T12:48:36Z",
+   "flags": [],
+   "gap": 0,
+   "note": "oberrieden.tlex.ch: index of 50 acts (50 in force); held 49; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 7 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 19,
+   "runner": "lawwatch switzerland (d83546088b)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "50 entries, 50 in force (oberrieden.tlex.ch)",
+   "source": "lexwork-oberrieden-city",
+   "started": "2026-11-24T12:47:59Z",
+   "unexplained": 0,
+   "update": {
+    "left_for_next_check": 0,
+    "letters_check_dropped": {},
+    "new": 0,
+    "nothing_new": 0,
+    "parts": [],
+    "pdf_only": 0,
+    "re_read": 0,
+    "unreadable": 0
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [],
+    "held": 49,
+    "method": "each act compared this check (7 of 49: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from oberrieden.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
+    "ok": true,
+    "swept": 7,
+    "versions_checked": 8,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
