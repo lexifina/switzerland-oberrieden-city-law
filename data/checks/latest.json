@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:35Z",
+ "generated": "2026-11-27T07:13:34Z",
  "latest": {
   "lexwork-oberrieden-city|switzerland/zurich/oberrieden/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 49,
     "source_in_scope": 49
    },
-   "check_id": "ch-lexwork-oberrieden-city-20261126T071522Z",
+   "check_id": "ch-lexwork-oberrieden-city-20261127T070952Z",
    "commits": null,
    "corpus": "switzerland/zurich/oberrieden/acts",
    "error": null,
-   "finished": "2026-11-26T07:15:51Z",
+   "finished": "2026-11-27T07:10:18Z",
    "flags": [],
-   "gap": 0,
+   "gap": 1,
    "note": "oberrieden.tlex.ch: index of 50 acts (50 in force); held 49; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 7 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 25,
+   "requests": 23,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "50 entries, 50 in force (oberrieden.tlex.ch)",
    "source": "lexwork-oberrieden-city",
-   "started": "2026-11-26T07:15:22Z",
+   "started": "2026-11-27T07:09:52Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 7,
-    "versions_checked": 10,
+    "versions_checked": 8,
     "versions_differ": 0
    }
   }

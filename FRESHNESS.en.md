@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Oberrieden: systematic collection (oberrieden.tlex.ch) · `switzerland/zurich/oberrieden/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 07:15 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 07:10 UTC**.
 - Acts held here: 49; current at the source: 49; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 7 of the 49 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 0 (—); with no reason: 0.
+- Not published: 1 (in force later: 1); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
